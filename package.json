@@ -1,0 +1,14 @@
+{
+  "name": "myproxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "list2yaml": "node utils/ruleconverter.js ruleset/list ruleset/yaml",
+    "yaml2list": "node utils/ruleconverter.js ruleset/yaml ruleset/list"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.22.0"
+}
