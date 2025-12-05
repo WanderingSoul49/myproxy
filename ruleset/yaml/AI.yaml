@@ -15,3 +15,6 @@ payload:
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
+
+  # Gork
+  - DOMAIN-SUFFIX,grokipedia.com
