@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,clawcloudrun.com
 DOMAIN-SUFFIX,freedownloadmanager.org
+DOMAIN-SUFFIX,brew.sh
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
